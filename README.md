@@ -1,1 +1,1 @@
-Hi
+This is a blank p5.js project template. 
